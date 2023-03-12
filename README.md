@@ -1,6 +1,6 @@
 - 👋 Hey, I am Ritika
 - 👀 I’m interested in Technology and Product Management
-- 🌱 I’m currently learning Web Development, Product Roadmaps and Ui/Ux.
+- 🌱 I’m currently learning Product Roadmaps and Ui/Ux.
 - 💞️ I’m looking to collaborate on projects in this field or internships.
 - 📫 You can reach me at ritikakapoor527@gmail.com
 
